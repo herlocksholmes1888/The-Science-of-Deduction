@@ -1,0 +1,33 @@
+{
+  "name": "the-science-of-deduction",
+  "version": "1.0.0",
+  "description": "Dr. Watson's chronicle blog, Mr. Holmes' portfolio",
+  
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/herlocksholmes1888/The-Science-of-Deduction.git"
+  },
+
+  "keywords": [
+      "Sherlock",
+      "Watson",
+      "detective",
+      "crime",
+      "blog",
+      "chronicles",
+      "articles",
+      "ACD",
+      "Conan Doyle"
+  ],
+
+  "author": "Dr. John H. Watson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herlocksholmes1888/The-Science-of-Deduction/issues"
+  },
+  "homepage": "https://github.com/herlocksholmes1888/The-Science-of-Deduction#readme",
+
+  "dependencies": {
+    "tailwindcss": "^4.0.14"
+  }
+}

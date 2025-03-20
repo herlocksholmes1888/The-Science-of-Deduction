@@ -4,6 +4,8 @@ My name is John H. Watson, and I am a retired military doctor. This is a project
 
 **"The Science of Deduction"** works both as his portfolio and my personal blog. The reason is simple: a few lines from a testimony may be enough to convince some people to contact his services, but a detailed chronicle of his methods connects with a lot more people.
 
+Find the prototype on Figma clicking [here](#) - as of right now, it is yet to be added.
+
 ### 💻 Which technologies were used to create The Science of Deduction?
 - HTML, for the skeleton;
 - TailwindCSS, so that the skeleton does not spook you;
